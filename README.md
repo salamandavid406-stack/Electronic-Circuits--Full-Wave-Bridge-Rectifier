@@ -1,6 +1,6 @@
 # Electronic-Circuits--Full-Wave-Bridge-Rectifier
 
-## AIM:
+## AIM: 
 To implement a full wave bridge rectifier with and without filter and to measure and compare the output and peak inverse voltages.
 ## CIRCUIT DIAGRAM:
 
